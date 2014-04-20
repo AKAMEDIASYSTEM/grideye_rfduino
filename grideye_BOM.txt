@@ -1,0 +1,9 @@
+grideye_BOM
+
+One 8x8 3v3 Hi-gain grideye http://www.digikey.com/product-detail/en/AMG8831/255-3509-6-ND/3461620
+One RFD22301 ARM Cortex M0+BLE radio http://www.semiconductorstore.com/cart/pc/viewPrd.asp?idproduct=48872
+Two 0805 10k resistors
+Two 1 uF 0805 capacitors (supposed to be one 1.5uF and one 1uF, but I used two 1uF and didn't notice any problems)
+One 20 Ohm 0805 resistor
+One I2C Adafruit OLED (can be http://www.adafruit.com/products/938 or http://www.adafruit.com/products/326) (but beware, the pinout is important!)
+One JST connector, either http://www.adafruit.com/products/1769 or its Digikey equivalent
