@@ -1,3 +1,20 @@
+/*
+GRID-EYE 8x8 thermal camera board
+uses http://www.adafruit.com/products/938
+or http://www.adafruit.com/products/326 as a screen
+
+NOTE, needs modified SSD1306 driver to work
+go here to get it: https://github.com/AKAMEDIASYSTEM/Adafruit_SSD1306_rfMOD
+
+main processor is an rfd22310
+
+see https://github.com/AKAMEDIASYSTEM/grideye_rfduino for more info
+
+
+
+MIT License
+
+*/
 #include <SPI.h>
 #include <Adafruit_SSD1306ms.h>
 #include <Adafruit_GFX.h>
